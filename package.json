@@ -1,0 +1,22 @@
+{
+  "name": "lil-marta-2022",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export"
+  },
+  "dependencies": {
+    "is-dark-theme": "^1.0.3",
+    "local-storage": "^2.0.0",
+    "next": "9.5.5",
+    "react": "16.13.1",
+    "react-dark-mode-toggle": "0.0.10",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.8.13"
+  }
+}

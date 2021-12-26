@@ -17,7 +17,7 @@ export default function HolaMundo({ className = '' }) {
         amigos te estamos esperando.
       </p>
       <p className="text-xl mt-6">
-        Te enseñaremos las calles de en las que tus padres nacieron y te contaremos
+        Te enseñaremos las calles en las que tus padres nacieron y te contaremos
         historias de cuándo tu papi era más joven, para que te sientas cerca de las raíces
         que tienes aquí.
       </p>

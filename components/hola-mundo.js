@@ -9,7 +9,7 @@ export default function HolaMundo({ className = '' }) {
         cosas que no rompen ni el tiempo, ni las dificultades.
       </p>
       <p className="text-xl mt-6">
-        He pensado que este blog pudiera ser simplemente un lugar donde recoger algunas de
+        He pensado que este blog pudiera ser simplemente un lugar donde recoger algunos de
         los pensamientos y vivencias personales de tus padres, familia y amigos que son
         familia, me comprometo a tratar de mantener actualizado este diario y que algún
         día en un futuro lo miremos con cariño.

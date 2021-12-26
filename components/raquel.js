@@ -2,7 +2,7 @@ export default function HolaMundo({ className = '' }) {
   return (
     <div className={`${className} mb-20`}>
       <h2 className="font-blueberry text-2xl">
-        Con todo el cariño <a href="raquel.es">Raquel</a>
+        Con todo el cariño <a href="https://raquelantunez.herokuapp.com/">Raquel</a>
       </h2>
       <div className="text-teal-600 mt-1 text-sm">25 de Diciembre de 2021</div>
       <p className="text-xl mt-6">
